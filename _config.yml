@@ -33,8 +33,6 @@ github_username:  jekyll
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
-
-gems:
   - jekyll-slim
 
 # Exclude from processing.
