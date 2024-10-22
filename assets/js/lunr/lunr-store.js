@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/crispy-dollop/jekyll/update/2024/09/24/welcome-to-jekyll.html",
         "teaser": null
+      },{
+        "title": "Post 2!",
+        "excerpt":"This is a Post 2 Header   This is a post 2 content  ","categories": ["misc"],
+        "tags": [],
+        "url": "/crispy-dollop/misc/2024/09/24/post-2.html",
+        "teaser": null
       }]
