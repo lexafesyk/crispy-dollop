@@ -28,12 +28,13 @@ baseurl: "/crispy-dollop" # the subpath of your site, e.g. /blog
 url: "https://lexafesyk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+atom_feed:
+  hide: true
 
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
-  - jekyll-slim
 
 # Exclude from processing.
 # The following items will not be processed, by default.
