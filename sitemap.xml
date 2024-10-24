@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lexafesyk.github.io/crispy-dollop/jekyll/update/2024/09/24/welcome-to-jekyll.html</loc>
-<lastmod>2024-09-24T17:46:24+00:00</lastmod>
+<loc>https://lexafesyk.github.io/crispy-dollop/2024/09/24/post-1.html</loc>
+<lastmod>2024-09-24T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://lexafesyk.github.io/crispy-dollop/misc/2024/09/24/post-2.html</loc>
-<lastmod>2024-09-24T17:46:24+00:00</lastmod>
+<loc>https://lexafesyk.github.io/crispy-dollop/2024/10/21/post-2.html</loc>
+<lastmod>2024-10-21T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://lexafesyk.github.io/crispy-dollop/about/</loc>
@@ -15,6 +15,9 @@
 <loc>https://lexafesyk.github.io/crispy-dollop/</loc>
 </url>
 <url>
-<loc>https://lexafesyk.github.io/crispy-dollop/test-page-category/test-page/</loc>
+<loc>https://lexafesyk.github.io/crispy-dollop/posts/</loc>
+</url>
+<url>
+<loc>https://lexafesyk.github.io/crispy-dollop/tags/</loc>
 </url>
 </urlset>
